@@ -6,6 +6,6 @@ This is a Python project called "Smart Delivery Robot", in which, having AI as a
 # How to start?
 You can start by reading the "Smart Delivery Robot.pdf" file. It contains:
 - A Gantt Chart of the project's timeline, so you have an idea of how much time it took me, and the steps I followed before and during the development.
-- A Flowchart explaining how the program works and a written documentation to help support my work (such as references, reflections, etc).
+- A Flowchart explaining how the program works and a written documentation to help support my work.
 
 # Enjoy coding!
